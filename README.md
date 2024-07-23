@@ -17,6 +17,6 @@ Set Up MySQL Database: Run the SQL script provided in the database folder to set
 Configure Database Connection: Update the database connection details in the DatabaseManager.java file.
 Compile and Run: Build and run the application from your IDE.
 Contact
-If you have any questions or suggestions, feel free to reach out to us at dharmendragangwar57@gmail.com.
+If you have any questions or suggestions, feel free to reach out to us at abhikumar150ok@gmail.com.
 Thank you for checking out our Multi-User Chat App (Java)! We hope you enjoy using it as much as we enjoyed building it.
 Happy chatting!
